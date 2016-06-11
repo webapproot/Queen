@@ -15,3 +15,5 @@ srv of remote control system
 
 ###contact us 
 http://www.hypnusoft.com
+
+### 注意php.ini设置 <? ?>
